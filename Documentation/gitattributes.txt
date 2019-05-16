@@ -822,6 +822,8 @@ patterns are available:
 
 - `matlab` suitable for source code in the MATLAB language.
 
+- `octave` suitable for source code in the Octave language.
+
 - `objc` suitable for source code in the Objective-C language.
 
 - `pascal` suitable for source code in the Pascal/Delphi language.
